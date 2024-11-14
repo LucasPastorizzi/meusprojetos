@@ -25,7 +25,10 @@ public class MainR {
         m1.tamanho = "EXG";
 
         System.out.println("Roupa; \n" + r1.modelo + "\n" + r1.tamanho + "\n" + r1.cor);
-        
+        System.out.println("Camiseta ; \n" + c1.modelo + "\n" + c1.tamanho + "\n" + c1.cor + "\n" + c1.desbotada);
+        System.out.println("Modelo ; \n" + m1.cor + "\n" + m1.tipo + "\n" + m1.tamanho); 
+
+
         
 
         
